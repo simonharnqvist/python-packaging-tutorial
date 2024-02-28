@@ -21,12 +21,14 @@ if __name__ == "__main__":
 ## 3. Let's organise some files
 Explain file structure required - different options. Highlight what is important vs not.
 
-## 4. Tools for setting up with `setuptools`
+## 4. Testing, testing
 
-## 5. Inventing the `wheel`: building our package
+## 5. Tools for setting up with `setuptools`
 
-## 6. `pip` installs packages, including yours (from GitHub)
+## 6. Inventing the `wheel`: building our package
 
-## 7. PyPI and conda: making your package easily available
+## 7. `pip` installs packages, including yours (from GitHub)
+
+## 8. PyPI and conda: making your package easily available
 
 
