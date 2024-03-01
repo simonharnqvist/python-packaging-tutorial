@@ -1,9 +1,20 @@
 # Introduction to Python packaging
 
+Order:
+1. Background: packages, modules, libraries
+2. File organisation of a package
+3. Fail first: test-driven development
+4. Configuring a package with setuptools (incl dependencies)
+5. Building wheels
+6. Installing packages
+7. Making packages available to the world: GitHub, PyPI and conda
+
 ## 1. Background: What is a package? Why package?
 Explain package vs library vs module vs collection of scripts.
 
-## 2. helloworld.py: a module for saying `hello` to the world
+## 2. Test driven development: always start by failing
+
+## 3. helloworld.py: a module for saying `hello` to the world
 
 First module: helloworld.py
 ```{python}
@@ -18,10 +29,10 @@ if __name__ == "__main__":
   main()
 ```
 
-## 3. Let's organise some files
+## 4. Let's organise some files
 Explain file structure required - different options. Highlight what is important vs not.
 
-## 4. Testing, testing
+## 5. Testing, testing
 
 ## 5. Tools for setting up with `setuptools`
 
